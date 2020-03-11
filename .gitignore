@@ -1,0 +1,15 @@
+Debug/*
+moderngpu-master/*
+profiler/*
+Consideracoes.ods
+*.txt
+*.exe
+#*.ods
+#*.in
+*.o
+*~
+*.nvvp
+*.nvprof
+/Debug/
+.cproject
+.project
